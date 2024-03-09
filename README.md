@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashish Prabhakar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Mern Stack Developer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile%20views&color=0e75b6&style=flat" alt="ashish8513" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ashishm8513" target="blank"><img src="https://img.shields.io/twitter/follow/@ashishm8513?logo=twitter&style=for-the-badge" alt="@ashishm8513" /></a> </p>
 
-- 🌱 I’m currently learning **python, Full Stack web development Using Python,**
+- 🌱 I’m currently learning **Full Stack, Full Stack web development Using M E R N**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about ** Full Stack Web development**
 
-- 📫 How to reach me **ashishprabakar1010@gmail.com**
+- 📫 How to reach me **ashishprabhakar1010@gmail.com**
 
 - ⚡ Fun fact **I'm**
 
