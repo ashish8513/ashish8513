@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Prabhakar</h1>
-<h3 align="center"> Mern Stack Developer  </h3>
+<h3 align="center" font='bold ' > Mern Stack Developer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile%20views&color=0e75b6&style=flat" alt="ashish8513" /> </p>
 
@@ -10,8 +10,6 @@
 - 💬 Ask me about ** Full Stack Web development**
 
 - 📫 How to reach me **ashishprabhakar1010@gmail.com**
-
-- ⚡ Fun fact **I'm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
