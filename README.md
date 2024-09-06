@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Prabhakar</h1>
 <h3 align="center" font="bold" >I am a Professional Full Stack Developer 🧑‍💻 </h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Ashish+Prabhakar;Software+Developer;Full+Stack+Developer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Ashish+Prabhakar;Software+Developer;Full+Stack+Developer" width="auto" height="35"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile%20views&color=0e75b6&style=flat" alt="ashish8513" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ashishm8513" target="blank"><img src="https://img.shields.io/twitter/follow/@ashishm8513?logo=twitter&style=for-the-badge" alt="@ashishm8513" /></a> </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
 </p>
