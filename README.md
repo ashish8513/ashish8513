@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile%20views&color=0e75b6&style=flat" alt="ashish8513" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ashishm8513" target="blank"><img src="https://img.shields.io/twitter/follow/@ashishm8513?logo=twitter&style=for-the-badge" alt="@ashishm8513" /></a> </p>
-
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
+</p>
 - 🌱 I’m currently Working **Full Stack, Full Stack web development Using M E R N**
 
 - 💬 Ask me about ** Full Stack Web development**
