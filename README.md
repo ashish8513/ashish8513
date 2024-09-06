@@ -4,7 +4,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Ashish+Prabhakar;Software+Developer;Full+Stack+Developer" width="auto" height="35"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile%20views&color=0e75b6&style=flat" alt="ashish8513" /> </p>
+
 
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
@@ -43,4 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish8513&show_icons=true&locale=en" alt="ashish8513" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish8513&" alt="ashish8513" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile%20views&color=0e75b6&style=flat" alt="ashish8513" /> </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
