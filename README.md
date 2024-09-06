@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@ashishm8513" target="blank"><img src="https://img.shields.io/twitter/follow/@ashishm8513?logo=twitter&style=for-the-badge" alt="@ashishm8513" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack, Full Stack web development Using M E R N**
+- 🌱 I’m currently Working **Full Stack, Full Stack web development Using M E R N**
 
 - 💬 Ask me about ** Full Stack Web development**
+  
+- 📔 Contributing to Open source as much as I can. 
 
 - 📫 How to reach me **ashishprabhakar1010@gmail.com**
 
