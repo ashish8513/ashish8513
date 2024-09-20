@@ -73,4 +73,4 @@
 <p align="right">
    <img src="https://github.com/ashish8513/ashish8513/blob/main/signature.png" alt="ashish8513" style="width: 400px; margin-right: 10px; padding: 10px; top:20px; filter: brightness(50%)"/>
 </p>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" style="margin-right:20px;" alt="Go to Top" /></a></p>
