@@ -43,5 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish8513&show_icons=true&locale=en" alt="ashish8513" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish8513&" alt="ashish8513" /></p>
-<p align="right"> <img src="https://github.com/ashish8513/ashish8513/blob/main/signature.png" alt="ashish8513" /> </p>
+<p align="right">&nbsp;&nbsp; <img src="https://github.com/ashish8513/ashish8513/blob/main/signature.png" alt="ashish8513" width="500" /> </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
