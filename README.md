@@ -5,9 +5,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Ashish+Prabhakar;Software+Developer;Full+Stack+Developer" width="auto" height="35"/>
 </p>
 
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
-</p>
+<img align="right" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <p align="center" style="font-size: 18px;">🌱 I’m currently working on Full Stack Web Development using the MERN Stack</p>
 
