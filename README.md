@@ -12,7 +12,7 @@
 <img align="right" height="120" style="border-radius: 50%; margin: 10px;" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <p align="center" style="font-size: 18px; color: #34495e; font-weight: 500;">
-   🌱 I’m currently working on Full Stack Web Development using the MERN Stack
+   🌱 I’m currently working on Full Stack Web Development 
 </p>
 
 <p align="center" style="font-size: 18px; color: #34495e; font-weight: 500;">
