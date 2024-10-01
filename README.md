@@ -56,7 +56,7 @@
    <img alt="React" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
    <img alt="NodeJS" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
    <img alt="ExpressJS" align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-   <!-- Add additional tools similarly -->
+   <!-- Add additional tools similarly  -->
 </p>
 
 ---
