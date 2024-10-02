@@ -4,7 +4,6 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Ashish+Prabhakar;Software+Developer;Full+Stack+Developer" width="auto" height="35"/>
 </p>
-<p font-size:48px>💫About </p>
 <p align="center" style="margin: 20px 0;">
   <img alt="Coding GI" width="300" height="auto" src="https://github.com/ashish8513/ashish8513/blob/main/coding.gif" style="border-radius: 10px;"/>
 </p>
