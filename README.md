@@ -70,7 +70,7 @@
    <img src="https://github.com/ashish8513/ashish8513/blob/main/signature.png" alt="ashish8513" style="width: 400px; margin-right: 10px; padding: 10px; top:20px; filter: brightness(80%);"/>
 </p>
 <p align="center">
-   <img src="" alt="ashish8513" />
+   <img src="https://github.com/ashish8513/ashish8513/blob/main/Thanks.svg" alt="ashish8513" />
 </p>
 
 <p align="right">
