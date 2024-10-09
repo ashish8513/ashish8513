@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold; font-size: 48px; color: #2c3e50;">Hi 👋, I'm Ashish Prabhakar</h1>
-<h3 align="center" style="font-weight: bold; font-size: 28px; color: #2980b9;">I am a Professional Full Stack Developer 🧑‍💻</h3>
+<h3 align="center" style="font-weight: bold; font-size: 28px; color: #2980b9;">I am a Full Stack Developer 🧑‍💻</h3>
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Ashish+Prabhakar;Software+Developer;Full+Stack+Developer" width="auto" height="35"/>
@@ -58,10 +58,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish8513&show_icons=true&locale=en" alt="ashish8513" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8513&show_icons=true&locale=en&layout=compact" alt="ashish8513" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish8513&" alt="ashish8513" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8513&show_icons=true&locale=en&layout=compact" alt="ashish8513" /></p>
 
 
 <p align="center">
