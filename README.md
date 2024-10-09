@@ -38,13 +38,11 @@
 
 <h3 align="left" style="font-size: 24px; color: #2c3e50; margin-top: 20px;">Connect with me:</h3>
 
-<p align="left">
-   <a href="https://twitter.com/@ashishm8513" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashishm8513" height="30" width="40" /></a>
-   <a href="https://linkedin.com/in/ashish-prabhakar-42791324b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-prabhakar-42791324b" height="30" width="40" /></a>
-   <a href="https://fb.com/ashish.kumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish.kumar" height="30" width="40" /></a>
-   <a href="https://www.instagram.com/official_ashish8513/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_ashish8513" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/@ashishprabhakar8513" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashishprabhakar8513" height="30" width="40" /></a>
-   <a href="https://www.hackerrank.com/ashish8513" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashish8513" height="30" width="40" /></a>
+<p align="centre">
+<a href = "https://www.linkedin.com/in/ashish-prabhakar-%F0%9F%94%B4-42791324b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/ashishdevdiaries/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "ashishprabhakar1010@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+
 </p>
 
 
