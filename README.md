@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold; font-size: 48px; color: #2c3e50;">Hi 👋, I'm Ashish Prabhakar</h1>
+<h1 align="center" style="font-weight: bold; font-size: 48px; color: #2c3e50;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashish Prabhakar</h1>
 <h3 align="center" style="font-weight: bold; font-size: 28px; color: #2980b9;">I am a Full Stack Developer 🧑‍💻</h3>
 
 <p align="center">
