@@ -55,10 +55,11 @@
    <img alt="ExpressJS" align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashish8513&show_icons=true&locale=en" alt="ashish8513" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8513&show_icons=true&locale=en&layout=compact" alt="ashish8513" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish8513&show_icons=true&locale=en" alt="ashish8513" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8513&show_icons=true&locale=en&layout=compact" alt="ashish8513" /></p>
 
 
 <p align="center">
