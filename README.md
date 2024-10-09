@@ -26,6 +26,12 @@
    📫 You can reach me at <a href="mailto:ashishprabhakar1010@gmail.com" style="color: #3498db; text-decoration: none; font-weight: bold;">ashishprabhakar1010@gmail.com</a>
 </p>
 
+<p align="center"> 
+  Visitor count<br> <br>
+  <img src="https://profile-counter.glitch.me/sarthak-1998/count.svg" />
+</p>
+
+<br/>
 ---
 
 <div align="left">
