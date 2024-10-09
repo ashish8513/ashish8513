@@ -71,8 +71,9 @@
    <img src="https://github.com/ashish8513/ashish8513/blob/main/signature.png" alt="ashish8513" style="width: 400px; margin-right: 10px; padding: 10px; top:20px; filter: brightness(80%);"/>
 </p>
 <p align="center">
-   <img src="https://github.com/ashish8513/ashish8513/blob/main/Thanks.svg" alt="ashish8513" />
+   <img src="https://github.com/ashish8513/ashish8513/blob/main/Thanks.svg" width="100%" height="120" alt="ashish8513" />
 </p>
+<br/>
 
 <p align="right">
    <a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" style="margin-right:20px;" alt="Go to Top " /></a>
