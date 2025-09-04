@@ -23,7 +23,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-prabhakar-%F0%9F%94%B4-42791324b/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-prabhakar-42791324b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ashishdevdiaries/" target="_blank">
