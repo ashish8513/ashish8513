@@ -21,7 +21,7 @@
 <p align="center" style="font-size: 18px; color: #34495e; font-weight: 500;">
    📔 I'm actively contributing to Open Source projects whenever I can.
 </p>
-
+<p align="center" style="font-size: 18px; color: #34495e; font-weight: 500;"> funFact: "I debug with console.log() and I'm not ashamed! 😄"</p> 
 <p align="center" style="font-size: 18px; color: #34495e; font-weight: 500;">
    📫 You can reach me at <a href="mailto:ashishprabhakar1010@gmail.com" style="color: #3498db; text-decoration: none; font-weight: bold;">ashishprabhakar1010@gmail.com</a>
 </p>
