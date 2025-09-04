@@ -13,8 +13,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently working on **Full Stack Web Development**
-- 💬 Ask me about **MERN Stack, React Native, App Development**
+- 🌱 Currently working on **Artificial Intelligence & Machine Learning**
+- 💬 Ask me about **MERN Stack, React Native, Desktop Application Development**
 - 🛠 Open Source contributor whenever I can
 - 📫 Reach me at **[ashishprabhakar1010@gmail.com](mailto:ashishprabhakar1010@gmail.com)**
 
@@ -64,6 +64,10 @@
 
 ---
 
-<p align="center" style="font-size:18px; font-weight:bold; color:#2c3e50;">
-  Thanks for visiting my profile 🙌  
+<p align="center">
+  <img src="https://github.com/ashish8513/ashish8513/blob/main/Thanks.svg" 
+       alt="Thanks for visiting" 
+       width="100%" 
+       style="max-width:800px; height:auto; border-radius:8px;" />
 </p>
+
