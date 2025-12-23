@@ -49,10 +49,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashish8513&theme=discord&column=6&margin-w=10&margin-h=10" />
-</p>
+### 👨‍💻 LeetCode
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/ashish8513?theme=dark&font=&extension=activity)](https://leetcode.com/ashish8513/)
 
 ---
 
