@@ -17,7 +17,7 @@
 - 🌱 Currently learning on **Cyber Security and Machine Learnings**
 - 💬 Ask me about **MERN Stack, React Native, Desktop Application Development**
 - 👯 I’m looking to collaborate on **Other Web Base Applications**
-- 📫 Reach me at **[ashishprabhakar1010@gmail.com](mailto:ashishprabhakar1010@gmail.com)**
+- 📫 Reach me at **[ashishprabhakar1010@gmail.com](mailto:ashishprabhakar.dev@gmail.com)**
 
 ---
 
